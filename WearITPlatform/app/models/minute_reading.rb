@@ -1,7 +1,7 @@
 class MinuteReading < ActiveRecord::Base
 	include ActiveModel::Model
 
-	belongs_to :Device
+	belongs_to :device
 
 	validates :heartbeats, numericality: true
 	validates :distance, numericality: true

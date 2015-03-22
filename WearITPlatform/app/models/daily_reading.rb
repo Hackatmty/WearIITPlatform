@@ -1,7 +1,7 @@
 class DailyReading < ActiveRecord::Base
 	include ActiveModel::Model
 
-	belongs_to :Device
+	belongs_to :device
 
 	validates :calories, numericality :true
 	validates :sleephours, numericality :true
