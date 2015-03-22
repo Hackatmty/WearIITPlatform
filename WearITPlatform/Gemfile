@@ -45,3 +45,12 @@ group :development, :test do
   gem 'spring'
 end
 
+group :assets do
+  gem 'less-rails-bootstrap'
+  gem 'therubyracer'
+  gem 'twitter-bootstrap-rails'
+end
+
+gem 'paperclip', '~> 3.0'
+gem 'nokogiri'
+

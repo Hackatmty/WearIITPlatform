@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :tracks
+
   get 'pages_controller/index'
 
   get 'pages_controller/equipos'
