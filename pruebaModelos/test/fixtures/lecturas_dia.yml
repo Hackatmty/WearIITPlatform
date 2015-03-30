@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  lecturas_minuto_id: 
+  calorias: 
+  sueño: 
+  distancia: 
+  pasos: 1
+
+two:
+  lecturas_minuto_id: 
+  calorias: 
+  sueño: 
+  distancia: 
+  pasos: 1

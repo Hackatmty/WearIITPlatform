@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  usuarios_id: 
+  name: 
+  marca: MyString
+
+two:
+  usuarios_id: 
+  name: 
+  marca: MyString
